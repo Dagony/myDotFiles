@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/etc/systemd/system'
+let g:netrw_dirhist_2='/etc/systemd/system/multi-user.target.wants'
+let g:netrw_dirhist_3='/home/dagony/.config/i3'
+let g:netrw_dirhist_4='/etc/systemd/user/default.target.wants'
+let g:netrw_dirhist_5='/home/dagony/projects/myPlanningProject'
+let g:netrw_dirhist_6='/home/dagony/.oh-my-zsh/custom/themes/spaceship-prompt'
