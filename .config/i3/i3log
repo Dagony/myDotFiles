@@ -1,0 +1,6 @@
+09/11/2018 08:58:00 AM - ERROR: Using Xinerama instead of RandR. This option should be avoided at all cost because it does not refresh the list of screens, so you cannot configure displays at runtime. Please check if your driver really does not support RandR and disable this option as soon as you can.
+09/11/2018 08:58:00 AM - i3 4.15.0.1 (03-13-2018) starting
+09/11/2018 08:58:00 AM - Parsing configfile /home/dagony/.config/i3/config
+09/11/2018 08:58:00 AM - deciding for version 4 due to this line: # i3 config file (v4)
+09/11/2018 08:58:00 AM - [libi3] ../i3-4.15.0.1/../i3-4.15.0.1/libi3/font.c Using Pango font DejaVu Sans Mono,Powerline, size 10
+09/11/2018 08:58:00 AM - ERROR: Another window manager seems to be running (X error 10)
